@@ -1,4 +1,4 @@
-id,date,days_since_last_visit,churned
+id,last_visit_date,days_since_last_visit,churned
 1,2021-10-26,1024,True
 2,2022-07-12,765,True
 3,2022-03-30,869,True

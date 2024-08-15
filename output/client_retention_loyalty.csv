@@ -1,1008 +1,1008 @@
-id,visit_count,retained
-1,17,True
-2,64,True
-3,66,True
-4,5,True
-5,2,True
-6,3,True
-7,2,True
-8,3,True
-9,10,True
-10,7,True
-11,196,True
-12,76,True
-13,3,True
-14,11,True
-15,2,True
-16,1,False
-17,4,True
-18,4,True
-19,20,True
-20,1,False
-21,2,True
-22,6,True
-23,1,False
-24,1,False
-25,1,False
-26,2,True
-27,5,True
-28,18,True
-29,9,True
-30,40,True
-31,2,True
-32,8,True
-33,4,True
-34,24,True
-35,26,True
-36,2,True
-37,37,True
-38,1,False
-39,1,False
-40,171,True
-41,2,True
-42,54,True
-43,34,True
-44,1,False
-45,1,False
-46,2,True
-47,19,True
-48,8,True
-49,2,True
-50,3,True
-51,1,False
-52,2,True
-53,1,False
-54,25,True
-55,11,True
-56,1,False
-57,5,True
-58,1,False
-59,47,True
-60,1,False
-61,2,True
-62,1,False
-63,17,True
-64,14,True
-65,1,False
-66,1,False
-67,12,True
-68,1,False
-69,1,False
-70,9,True
-71,1,False
-72,6,True
-73,3,True
-74,1,False
-75,1,False
-76,1,False
-77,2,True
-78,1,False
-79,1,False
-80,81,True
-81,3,True
-82,2,True
-83,1,False
-84,18,True
-85,1,False
-86,2,True
-87,3,True
-88,1,False
-89,1,False
-90,5,True
-91,46,True
-92,1,False
-93,9,True
-94,1,False
-95,1,False
-96,2,True
-97,23,True
-98,13,True
-99,72,True
-100,1,False
-101,3,True
-102,1,False
-103,1,False
-104,34,True
-105,3,True
-106,7,True
-107,1,False
-108,65,True
-109,1,False
-110,1,False
-111,12,True
-112,2,True
-113,5,True
-114,53,True
-115,1,False
-116,7,True
-117,10,True
-118,1,False
-119,2,True
-120,1,False
-121,1,False
-122,3,True
-123,37,True
-124,9,True
-125,10,True
-126,14,True
-127,2,True
-128,1,False
-129,2,True
-130,1,False
-131,4,True
-132,21,True
-133,85,True
-134,63,True
-135,12,True
-136,1,False
-137,29,True
-138,3,True
-139,4,True
-140,2,True
-141,22,True
-142,2,True
-143,12,True
-144,25,True
-145,2,True
-146,1,False
-147,1,False
-148,1,False
-149,3,True
-150,6,True
-151,6,True
-152,2,True
-153,2,True
-154,1,False
-155,2,True
-156,2,True
-157,2,True
-158,6,True
-159,2,True
-160,3,True
-161,1,False
-162,42,True
-163,31,True
-164,5,True
-165,2,True
-166,43,True
-167,1,False
-168,1,False
-169,5,True
-170,2,True
-171,5,True
-172,34,True
-173,1,False
-174,2,True
-175,1,False
-176,7,True
-177,1,False
-178,74,True
-179,1,False
-180,1,False
-181,3,True
-182,1,False
-183,1,False
-184,1,False
-185,50,True
-186,10,True
-187,1,False
-188,102,True
-189,1,False
-190,1,False
-191,15,True
-192,1,False
-193,3,True
-194,1,False
-195,1,False
-196,2,True
-197,1,False
-198,113,True
-199,1,False
-200,7,True
-201,34,True
-202,4,True
-203,1,False
-204,9,True
-205,61,True
-206,1,False
-207,2,True
-208,39,True
-209,39,True
-210,1,False
-211,2,True
-212,1,False
-213,1,False
-214,4,True
-215,17,True
-216,1,False
-217,2,True
-218,35,True
-219,1,False
-220,1,False
-221,13,True
-222,5,True
-223,12,True
-224,6,True
-225,19,True
-226,44,True
-227,1,False
-228,1,False
-229,109,True
-230,1,False
-231,1,False
-232,1,False
-233,3,True
-234,26,True
-235,1,False
-236,1,False
-237,1,False
-238,1,False
-239,4,True
-240,1,False
-241,2,True
-242,11,True
-243,50,True
-244,2,True
-245,2,True
-246,1,False
-247,34,True
-248,1,False
-249,22,True
-250,1,False
-251,3,True
-252,41,True
-253,1,False
-254,1,False
-255,1,False
-256,18,True
-257,1,False
-258,1,False
-259,178,True
-260,55,True
-261,5,True
-262,3,True
-263,1,False
-264,26,True
-265,6,True
-266,37,True
-267,1,False
-268,1,False
-269,11,True
-270,9,True
-271,8,True
-272,1,False
-273,8,True
-274,7,True
-275,2,True
-276,2,True
-277,10,True
-278,23,True
-279,1,False
-280,1,False
-281,2,True
-282,1,False
-283,3,True
-284,13,True
-285,2,True
-286,4,True
-287,3,True
-288,1,False
-289,42,True
-290,1,False
-291,12,True
-292,58,True
-293,4,True
-294,1,False
-295,1,False
-296,9,True
-297,1,False
-298,1,False
-299,3,True
-300,1,False
-301,1,False
-302,6,True
-303,1,False
-304,5,True
-305,9,True
-306,1,False
-307,32,True
-308,1,False
-309,1,False
-310,6,True
-311,7,True
-312,5,True
-313,1,False
-314,4,True
-315,69,True
-316,2,True
-317,11,True
-318,1,False
-319,1,False
-320,30,True
-321,1,False
-322,50,True
-323,2,True
-324,10,True
-325,53,True
-326,2,True
-327,2,True
-328,8,True
-329,32,True
-330,22,True
-331,1,False
-332,4,True
-333,34,True
-334,64,True
-335,1,False
-336,1,False
-337,45,True
-338,1,False
-339,1,False
-340,3,True
-341,1,False
-342,70,True
-343,1,False
-344,24,True
-345,86,True
-346,2,True
-347,1,False
-348,2,True
-349,12,True
-350,8,True
-351,25,True
-352,3,True
-353,85,True
-354,5,True
-355,27,True
-356,1,False
-357,1,False
-358,17,True
-359,106,True
-360,2,True
-361,1,False
-362,1,False
-363,11,True
-364,45,True
-365,44,True
-366,23,True
-367,1,False
-368,46,True
-369,9,True
-370,33,True
-371,46,True
-372,2,True
-373,2,True
-374,1,False
-375,53,True
-376,4,True
-377,2,True
-378,2,True
-379,1,False
-380,26,True
-381,63,True
-382,21,True
-383,22,True
-384,13,True
-385,35,True
-386,124,True
-387,1,False
-388,25,True
-389,8,True
-390,2,True
-391,1,False
-392,9,True
-393,26,True
-394,2,True
-395,2,True
-396,8,True
-397,1,False
-398,25,True
-399,19,True
-400,12,True
-401,1,False
-402,21,True
-403,2,True
-404,1,False
-405,16,True
-406,1,False
-407,1,False
-408,17,True
-409,1,False
-410,327,True
-411,31,True
-412,6,True
-413,1,False
-414,1,False
-415,13,True
-416,2,True
-417,53,True
-418,3,True
-419,1,False
-420,9,True
-421,14,True
-422,5,True
-423,53,True
-424,37,True
-425,2,True
-426,2,True
-427,59,True
-428,1,False
-429,1,False
-430,5,True
-431,1,False
-432,2,True
-433,1,False
-434,9,True
-435,16,True
-436,1,False
-437,3,True
-438,47,True
-439,1,False
-440,1,False
-441,17,True
-442,1,False
-443,1,False
-444,11,True
-445,66,True
-446,1,False
-447,7,True
-448,1,False
-449,76,True
-450,3,True
-451,19,True
-452,2,True
-453,1,False
-454,1,False
-455,3,True
-456,5,True
-457,27,True
-458,1,False
-459,1,False
-460,1,False
-461,53,True
-462,1,False
-463,1,False
-464,1,False
-465,52,True
-466,1,False
-467,2,True
-468,1,False
-469,4,True
-470,5,True
-471,12,True
-472,2,True
-473,8,True
-474,9,True
-475,5,True
-476,63,True
-477,2,True
-478,1,False
-479,81,True
-480,27,True
-481,2,True
-482,67,True
-483,11,True
-484,27,True
-485,62,True
-486,15,True
-487,20,True
-488,12,True
-489,1,False
-490,38,True
-491,14,True
-492,16,True
-493,1,False
-494,2,True
-495,4,True
-496,1,False
-497,17,True
-498,5,True
-499,3,True
-500,213,True
-501,1,False
-502,1,False
-503,2,True
-504,8,True
-505,11,True
-506,1,False
-507,2,True
-508,4,True
-509,13,True
-510,169,True
-511,1,False
-512,94,True
-513,1,False
-514,3,True
-515,6,True
-516,3,True
-517,22,True
-518,1,False
-519,2,True
-520,7,True
-521,3,True
-522,20,True
-523,1,False
-524,12,True
-525,7,True
-526,42,True
-527,4,True
-528,42,True
-529,5,True
-530,44,True
-531,2,True
-532,17,True
-533,4,True
-534,2,True
-535,1,False
-536,1,False
-537,2,True
-538,8,True
-539,1,False
-540,29,True
-541,1,False
-542,9,True
-543,30,True
-544,2,True
-545,3,True
-546,45,True
-547,2,True
-548,3,True
-549,8,True
-550,1,False
-551,2,True
-552,67,True
-553,1,False
-554,1,False
-555,11,True
-556,1,False
-557,7,True
-558,4,True
-559,3,True
-560,2,True
-561,16,True
-562,12,True
-563,1,False
-564,1,False
-565,159,True
-566,4,True
-567,1,False
-568,1,False
-569,2,True
-570,6,True
-571,1,False
-572,2,True
-573,2,True
-574,1,False
-575,1,False
-576,1,False
-577,1,False
-578,1,False
-579,5,True
-580,1,False
-581,4,True
-582,17,True
-583,1,False
-584,1,False
-585,5,True
-586,1,False
-587,15,True
-588,2,True
-589,42,True
-590,1,False
-591,5,True
-592,55,True
-593,42,True
-594,38,True
-595,8,True
-596,4,True
-597,3,True
-598,1,False
-599,1,False
-600,24,True
-601,59,True
-602,1,False
-603,21,True
-604,1,False
-605,1,False
-606,2,True
-607,7,True
-608,54,True
-609,3,True
-610,1,False
-611,3,True
-612,135,True
-613,5,True
-614,1,False
-615,4,True
-616,2,True
-617,4,True
-618,5,True
-619,54,True
-620,1,False
-621,8,True
-622,12,True
-623,7,True
-624,27,True
-625,1,False
-626,27,True
-627,3,True
-628,1,False
-629,8,True
-630,1,False
-631,1,False
-632,59,True
-633,23,True
-634,2,True
-635,8,True
-636,1,False
-637,57,True
-638,126,True
-639,2,True
-640,18,True
-641,10,True
-642,8,True
-643,1,False
-644,37,True
-645,2,True
-646,1,False
-647,29,True
-648,8,True
-649,29,True
-650,16,True
-651,47,True
-652,1,False
-653,1,False
-654,95,True
-655,2,True
-656,1,False
-657,17,True
-658,66,True
-659,1,False
-660,18,True
-661,7,True
-662,1,False
-663,1,False
-664,1,False
-665,1,False
-666,2,True
-667,21,True
-668,1,False
-669,10,True
-670,2,True
-671,29,True
-672,3,True
-673,3,True
-674,2,True
-675,3,True
-676,30,True
-677,10,True
-678,4,True
-679,3,True
-680,3,True
-681,68,True
-682,23,True
-683,26,True
-684,29,True
-685,44,True
-686,1,False
-687,1,False
-688,4,True
-689,1,False
-690,2,True
-691,5,True
-692,1,False
-693,11,True
-694,2,True
-695,9,True
-696,4,True
-697,5,True
-698,1,False
-699,1,False
-700,1,False
-701,1,False
-702,28,True
-703,1,False
-704,31,True
-705,31,True
-706,8,True
-707,2,True
-708,37,True
-709,1,False
-710,18,True
-711,34,True
-712,22,True
-713,3,True
-714,1,False
-715,1,False
-716,23,True
-717,1,False
-718,4,True
-719,2,True
-720,1,False
-721,1,False
-722,1,False
-723,7,True
-724,40,True
-725,8,True
-726,28,True
-727,14,True
-728,16,True
-729,16,True
-730,2,True
-731,1,False
-732,18,True
-733,25,True
-734,4,True
-735,27,True
-736,1,False
-737,5,True
-738,40,True
-739,2,True
-740,21,True
-741,1,False
-742,25,True
-743,1,False
-744,2,True
-745,2,True
-746,3,True
-747,2,True
-748,3,True
-749,56,True
-750,2,True
-751,2,True
-752,4,True
-753,28,True
-754,1,False
-755,6,True
-756,1,False
-757,13,True
-758,11,True
-759,8,True
-760,16,True
-761,3,True
-762,3,True
-763,2,True
-764,1,False
-765,7,True
-766,11,True
-767,37,True
-768,4,True
-769,3,True
-770,61,True
-771,10,True
-772,2,True
-773,1,False
-774,44,True
-775,1,False
-776,3,True
-777,1,False
-778,3,True
-779,19,True
-780,6,True
-781,4,True
-782,7,True
-783,15,True
-784,2,True
-785,9,True
-786,13,True
-787,6,True
-788,16,True
-789,1,False
-790,1,False
-791,6,True
-792,2,True
-793,1,False
-794,3,True
-795,33,True
-796,2,True
-797,1,False
-798,12,True
-799,28,True
-800,1,False
-801,3,True
-802,29,True
-803,39,True
-804,1,False
-805,12,True
-806,1,False
-807,9,True
-808,17,True
-809,2,True
-810,59,True
-811,18,True
-812,2,True
-813,2,True
-814,28,True
-815,1,False
-816,39,True
-817,7,True
-818,14,True
-819,1,False
-820,9,True
-821,1,False
-822,2,True
-823,22,True
-824,2,True
-825,1,False
-826,10,True
-827,1,False
-828,33,True
-829,16,True
-830,16,True
-831,1,False
-832,1,False
-833,17,True
-834,1,False
-835,46,True
-836,1,False
-837,1,False
-838,23,True
-839,6,True
-840,5,True
-841,1,False
-842,3,True
-843,3,True
-844,14,True
-845,1,False
-846,20,True
-847,7,True
-848,3,True
-849,3,True
-850,1,False
-851,8,True
-852,1,False
-853,1,False
-854,2,True
-855,1,False
-856,12,True
-857,33,True
-858,19,True
-859,27,True
-860,20,True
-861,6,True
-862,1,False
-863,1,False
-864,25,True
-865,15,True
-866,2,True
-867,9,True
-868,3,True
-869,1,False
-870,67,True
-871,7,True
-872,1,False
-873,3,True
-874,2,True
-875,9,True
-876,3,True
-877,2,True
-878,37,True
-879,19,True
-880,3,True
-881,1,False
-882,1,False
-883,30,True
-884,2,True
-885,22,True
-886,30,True
-887,1,False
-888,2,True
-889,1,False
-890,27,True
-891,5,True
-892,2,True
-893,1,False
-894,2,True
-895,4,True
-896,28,True
-897,1,False
-898,33,True
-899,8,True
-900,12,True
-901,1,False
-902,1,False
-903,27,True
-904,1,False
-905,25,True
-906,18,True
-907,1,False
-908,5,True
-909,2,True
-910,1,False
-911,13,True
-912,7,True
-913,29,True
-914,6,True
-915,2,True
-916,1,False
-917,12,True
-918,1,False
-919,1,False
-920,31,True
-921,2,True
-922,6,True
-923,8,True
-924,11,True
-925,22,True
-926,17,True
-927,1,False
-928,1,False
-929,22,True
-930,2,True
-931,6,True
-932,1,False
-933,14,True
-934,14,True
-935,28,True
-936,1,False
-937,1,False
-938,8,True
-939,1,False
-940,3,True
-941,1,False
-942,1,False
-943,2,True
-944,106,True
-945,3,True
-946,1,False
-947,3,True
-948,15,True
-949,1,False
-950,13,True
-951,1,False
-952,11,True
-953,12,True
-954,18,True
-955,1,False
-956,2,True
-957,1,False
-958,12,True
-959,7,True
-960,21,True
-961,1,False
-962,26,True
-963,18,True
-964,1,False
-965,4,True
-966,2,True
-967,6,True
-968,5,True
-969,3,True
-970,2,True
-971,9,True
-972,2,True
-973,14,True
-974,1,False
-975,1,False
-976,4,True
-977,10,True
-978,11,True
-979,1,False
-980,3,True
-981,10,True
-982,3,True
-983,1,False
-984,2,True
-985,1,False
-986,3,True
-987,48,True
-988,1,False
-989,1,False
-990,2,True
-991,5,True
-992,12,True
-993,1,False
-994,2,True
-995,1,False
-996,9,True
-997,8,True
-998,1,False
-999,16,True
-1000,4,True
-1001,1,False
-1002,1,False
-1003,4,True
-1004,1,False
-1005,1,False
-1006,2,True
-1007,3,True
+id,visit_count,retained,loyalty
+1,17,True,Low Loyalty
+2,64,True,Low Loyalty
+3,66,True,Low Loyalty
+4,5,True,Loyal
+5,2,True,Highly Loyal
+6,3,True,Highly Loyal
+7,2,True,Highly Loyal
+8,3,True,Highly Loyal
+9,10,True,Low Loyalty
+10,7,True,Loyal
+11,196,True,Low Loyalty
+12,76,True,Low Loyalty
+13,3,True,Highly Loyal
+14,11,True,Low Loyalty
+15,2,True,Highly Loyal
+16,1,False,Highly Loyal
+17,4,True,Highly Loyal
+18,4,True,Highly Loyal
+19,20,True,Low Loyalty
+20,1,False,Highly Loyal
+21,2,True,Highly Loyal
+22,6,True,Loyal
+23,1,False,Highly Loyal
+24,1,False,Highly Loyal
+25,1,False,Highly Loyal
+26,2,True,Highly Loyal
+27,5,True,Loyal
+28,18,True,Low Loyalty
+29,9,True,Loyal
+30,40,True,Low Loyalty
+31,2,True,Highly Loyal
+32,8,True,Loyal
+33,4,True,Highly Loyal
+34,24,True,Low Loyalty
+35,26,True,Low Loyalty
+36,2,True,Highly Loyal
+37,37,True,Low Loyalty
+38,1,False,Highly Loyal
+39,1,False,Highly Loyal
+40,171,True,Low Loyalty
+41,2,True,Highly Loyal
+42,54,True,Low Loyalty
+43,34,True,Low Loyalty
+44,1,False,Highly Loyal
+45,1,False,Highly Loyal
+46,2,True,Highly Loyal
+47,19,True,Low Loyalty
+48,8,True,Loyal
+49,2,True,Highly Loyal
+50,3,True,Highly Loyal
+51,1,False,Highly Loyal
+52,2,True,Highly Loyal
+53,1,False,Highly Loyal
+54,25,True,Low Loyalty
+55,11,True,Low Loyalty
+56,1,False,Highly Loyal
+57,5,True,Loyal
+58,1,False,Highly Loyal
+59,47,True,Low Loyalty
+60,1,False,Highly Loyal
+61,2,True,Highly Loyal
+62,1,False,Highly Loyal
+63,17,True,Low Loyalty
+64,14,True,Low Loyalty
+65,1,False,Highly Loyal
+66,1,False,Highly Loyal
+67,12,True,Low Loyalty
+68,1,False,Highly Loyal
+69,1,False,Highly Loyal
+70,9,True,Loyal
+71,1,False,Highly Loyal
+72,6,True,Loyal
+73,3,True,Highly Loyal
+74,1,False,Highly Loyal
+75,1,False,Highly Loyal
+76,1,False,Highly Loyal
+77,2,True,Highly Loyal
+78,1,False,Highly Loyal
+79,1,False,Highly Loyal
+80,81,True,Low Loyalty
+81,3,True,Highly Loyal
+82,2,True,Highly Loyal
+83,1,False,Highly Loyal
+84,18,True,Low Loyalty
+85,1,False,Highly Loyal
+86,2,True,Highly Loyal
+87,3,True,Highly Loyal
+88,1,False,Highly Loyal
+89,1,False,Highly Loyal
+90,5,True,Loyal
+91,46,True,Low Loyalty
+92,1,False,Highly Loyal
+93,9,True,Loyal
+94,1,False,Highly Loyal
+95,1,False,Highly Loyal
+96,2,True,Highly Loyal
+97,23,True,Low Loyalty
+98,13,True,Low Loyalty
+99,72,True,Low Loyalty
+100,1,False,Highly Loyal
+101,3,True,Highly Loyal
+102,1,False,Highly Loyal
+103,1,False,Highly Loyal
+104,34,True,Low Loyalty
+105,3,True,Highly Loyal
+106,7,True,Loyal
+107,1,False,Highly Loyal
+108,65,True,Low Loyalty
+109,1,False,Highly Loyal
+110,1,False,Highly Loyal
+111,12,True,Low Loyalty
+112,2,True,Highly Loyal
+113,5,True,Loyal
+114,53,True,Low Loyalty
+115,1,False,Highly Loyal
+116,7,True,Loyal
+117,10,True,Low Loyalty
+118,1,False,Highly Loyal
+119,2,True,Highly Loyal
+120,1,False,Highly Loyal
+121,1,False,Highly Loyal
+122,3,True,Highly Loyal
+123,37,True,Low Loyalty
+124,9,True,Loyal
+125,10,True,Low Loyalty
+126,14,True,Low Loyalty
+127,2,True,Highly Loyal
+128,1,False,Highly Loyal
+129,2,True,Highly Loyal
+130,1,False,Highly Loyal
+131,4,True,Highly Loyal
+132,21,True,Low Loyalty
+133,85,True,Low Loyalty
+134,63,True,Low Loyalty
+135,12,True,Low Loyalty
+136,1,False,Highly Loyal
+137,29,True,Low Loyalty
+138,3,True,Highly Loyal
+139,4,True,Highly Loyal
+140,2,True,Highly Loyal
+141,22,True,Low Loyalty
+142,2,True,Highly Loyal
+143,12,True,Low Loyalty
+144,25,True,Low Loyalty
+145,2,True,Highly Loyal
+146,1,False,Highly Loyal
+147,1,False,Highly Loyal
+148,1,False,Highly Loyal
+149,3,True,Highly Loyal
+150,6,True,Loyal
+151,6,True,Loyal
+152,2,True,Highly Loyal
+153,2,True,Highly Loyal
+154,1,False,Highly Loyal
+155,2,True,Highly Loyal
+156,2,True,Highly Loyal
+157,2,True,Highly Loyal
+158,6,True,Loyal
+159,2,True,Highly Loyal
+160,3,True,Highly Loyal
+161,1,False,Highly Loyal
+162,42,True,Low Loyalty
+163,31,True,Low Loyalty
+164,5,True,Loyal
+165,2,True,Highly Loyal
+166,43,True,Low Loyalty
+167,1,False,Highly Loyal
+168,1,False,Highly Loyal
+169,5,True,Loyal
+170,2,True,Highly Loyal
+171,5,True,Loyal
+172,34,True,Low Loyalty
+173,1,False,Highly Loyal
+174,2,True,Highly Loyal
+175,1,False,Highly Loyal
+176,7,True,Loyal
+177,1,False,Highly Loyal
+178,74,True,Low Loyalty
+179,1,False,Highly Loyal
+180,1,False,Highly Loyal
+181,3,True,Highly Loyal
+182,1,False,Highly Loyal
+183,1,False,Highly Loyal
+184,1,False,Highly Loyal
+185,50,True,Low Loyalty
+186,10,True,Low Loyalty
+187,1,False,Highly Loyal
+188,102,True,Low Loyalty
+189,1,False,Highly Loyal
+190,1,False,Highly Loyal
+191,15,True,Low Loyalty
+192,1,False,Highly Loyal
+193,3,True,Highly Loyal
+194,1,False,Highly Loyal
+195,1,False,Highly Loyal
+196,2,True,Highly Loyal
+197,1,False,Highly Loyal
+198,113,True,Low Loyalty
+199,1,False,Highly Loyal
+200,7,True,Loyal
+201,34,True,Low Loyalty
+202,4,True,Highly Loyal
+203,1,False,Highly Loyal
+204,9,True,Loyal
+205,61,True,Low Loyalty
+206,1,False,Highly Loyal
+207,2,True,Highly Loyal
+208,39,True,Low Loyalty
+209,39,True,Low Loyalty
+210,1,False,Highly Loyal
+211,2,True,Highly Loyal
+212,1,False,Highly Loyal
+213,1,False,Highly Loyal
+214,4,True,Highly Loyal
+215,17,True,Low Loyalty
+216,1,False,Highly Loyal
+217,2,True,Highly Loyal
+218,35,True,Low Loyalty
+219,1,False,Highly Loyal
+220,1,False,Highly Loyal
+221,13,True,Low Loyalty
+222,5,True,Loyal
+223,12,True,Low Loyalty
+224,6,True,Loyal
+225,19,True,Low Loyalty
+226,44,True,Low Loyalty
+227,1,False,Highly Loyal
+228,1,False,Highly Loyal
+229,109,True,Low Loyalty
+230,1,False,Highly Loyal
+231,1,False,Highly Loyal
+232,1,False,Highly Loyal
+233,3,True,Highly Loyal
+234,26,True,Low Loyalty
+235,1,False,Highly Loyal
+236,1,False,Highly Loyal
+237,1,False,Highly Loyal
+238,1,False,Highly Loyal
+239,4,True,Highly Loyal
+240,1,False,Highly Loyal
+241,2,True,Highly Loyal
+242,11,True,Low Loyalty
+243,50,True,Low Loyalty
+244,2,True,Highly Loyal
+245,2,True,Highly Loyal
+246,1,False,Highly Loyal
+247,34,True,Low Loyalty
+248,1,False,Highly Loyal
+249,22,True,Low Loyalty
+250,1,False,Highly Loyal
+251,3,True,Highly Loyal
+252,41,True,Low Loyalty
+253,1,False,Highly Loyal
+254,1,False,Highly Loyal
+255,1,False,Highly Loyal
+256,18,True,Low Loyalty
+257,1,False,Highly Loyal
+258,1,False,Highly Loyal
+259,178,True,Low Loyalty
+260,55,True,Low Loyalty
+261,5,True,Loyal
+262,3,True,Highly Loyal
+263,1,False,Highly Loyal
+264,26,True,Low Loyalty
+265,6,True,Loyal
+266,37,True,Low Loyalty
+267,1,False,Highly Loyal
+268,1,False,Highly Loyal
+269,11,True,Low Loyalty
+270,9,True,Loyal
+271,8,True,Loyal
+272,1,False,Highly Loyal
+273,8,True,Loyal
+274,7,True,Loyal
+275,2,True,Highly Loyal
+276,2,True,Highly Loyal
+277,10,True,Low Loyalty
+278,23,True,Low Loyalty
+279,1,False,Highly Loyal
+280,1,False,Highly Loyal
+281,2,True,Highly Loyal
+282,1,False,Highly Loyal
+283,3,True,Highly Loyal
+284,13,True,Low Loyalty
+285,2,True,Highly Loyal
+286,4,True,Highly Loyal
+287,3,True,Highly Loyal
+288,1,False,Highly Loyal
+289,42,True,Low Loyalty
+290,1,False,Highly Loyal
+291,12,True,Low Loyalty
+292,58,True,Low Loyalty
+293,4,True,Highly Loyal
+294,1,False,Highly Loyal
+295,1,False,Highly Loyal
+296,9,True,Loyal
+297,1,False,Highly Loyal
+298,1,False,Highly Loyal
+299,3,True,Highly Loyal
+300,1,False,Highly Loyal
+301,1,False,Highly Loyal
+302,6,True,Loyal
+303,1,False,Highly Loyal
+304,5,True,Loyal
+305,9,True,Loyal
+306,1,False,Highly Loyal
+307,32,True,Low Loyalty
+308,1,False,Highly Loyal
+309,1,False,Highly Loyal
+310,6,True,Loyal
+311,7,True,Loyal
+312,5,True,Loyal
+313,1,False,Highly Loyal
+314,4,True,Highly Loyal
+315,69,True,Low Loyalty
+316,2,True,Highly Loyal
+317,11,True,Low Loyalty
+318,1,False,Highly Loyal
+319,1,False,Highly Loyal
+320,30,True,Low Loyalty
+321,1,False,Highly Loyal
+322,50,True,Low Loyalty
+323,2,True,Highly Loyal
+324,10,True,Low Loyalty
+325,53,True,Low Loyalty
+326,2,True,Highly Loyal
+327,2,True,Highly Loyal
+328,8,True,Loyal
+329,32,True,Low Loyalty
+330,22,True,Low Loyalty
+331,1,False,Highly Loyal
+332,4,True,Highly Loyal
+333,34,True,Low Loyalty
+334,64,True,Low Loyalty
+335,1,False,Highly Loyal
+336,1,False,Highly Loyal
+337,45,True,Low Loyalty
+338,1,False,Highly Loyal
+339,1,False,Highly Loyal
+340,3,True,Highly Loyal
+341,1,False,Highly Loyal
+342,70,True,Low Loyalty
+343,1,False,Highly Loyal
+344,24,True,Low Loyalty
+345,86,True,Low Loyalty
+346,2,True,Highly Loyal
+347,1,False,Highly Loyal
+348,2,True,Highly Loyal
+349,12,True,Low Loyalty
+350,8,True,Loyal
+351,25,True,Low Loyalty
+352,3,True,Highly Loyal
+353,85,True,Low Loyalty
+354,5,True,Loyal
+355,27,True,Low Loyalty
+356,1,False,Highly Loyal
+357,1,False,Highly Loyal
+358,17,True,Low Loyalty
+359,106,True,Low Loyalty
+360,2,True,Highly Loyal
+361,1,False,Highly Loyal
+362,1,False,Highly Loyal
+363,11,True,Low Loyalty
+364,45,True,Low Loyalty
+365,44,True,Low Loyalty
+366,23,True,Low Loyalty
+367,1,False,Highly Loyal
+368,46,True,Low Loyalty
+369,9,True,Loyal
+370,33,True,Low Loyalty
+371,46,True,Low Loyalty
+372,2,True,Highly Loyal
+373,2,True,Highly Loyal
+374,1,False,Highly Loyal
+375,53,True,Low Loyalty
+376,4,True,Highly Loyal
+377,2,True,Highly Loyal
+378,2,True,Highly Loyal
+379,1,False,Highly Loyal
+380,26,True,Low Loyalty
+381,63,True,Low Loyalty
+382,21,True,Low Loyalty
+383,22,True,Low Loyalty
+384,13,True,Low Loyalty
+385,35,True,Low Loyalty
+386,124,True,Low Loyalty
+387,1,False,Highly Loyal
+388,25,True,Low Loyalty
+389,8,True,Loyal
+390,2,True,Highly Loyal
+391,1,False,Highly Loyal
+392,9,True,Loyal
+393,26,True,Low Loyalty
+394,2,True,Highly Loyal
+395,2,True,Highly Loyal
+396,8,True,Loyal
+397,1,False,Highly Loyal
+398,25,True,Low Loyalty
+399,19,True,Low Loyalty
+400,12,True,Low Loyalty
+401,1,False,Highly Loyal
+402,21,True,Low Loyalty
+403,2,True,Highly Loyal
+404,1,False,Highly Loyal
+405,16,True,Low Loyalty
+406,1,False,Highly Loyal
+407,1,False,Highly Loyal
+408,17,True,Low Loyalty
+409,1,False,Highly Loyal
+410,327,True,Low Loyalty
+411,31,True,Low Loyalty
+412,6,True,Loyal
+413,1,False,Highly Loyal
+414,1,False,Highly Loyal
+415,13,True,Low Loyalty
+416,2,True,Highly Loyal
+417,53,True,Low Loyalty
+418,3,True,Highly Loyal
+419,1,False,Highly Loyal
+420,9,True,Loyal
+421,14,True,Low Loyalty
+422,5,True,Loyal
+423,53,True,Low Loyalty
+424,37,True,Low Loyalty
+425,2,True,Highly Loyal
+426,2,True,Highly Loyal
+427,59,True,Low Loyalty
+428,1,False,Highly Loyal
+429,1,False,Highly Loyal
+430,5,True,Loyal
+431,1,False,Highly Loyal
+432,2,True,Highly Loyal
+433,1,False,Highly Loyal
+434,9,True,Loyal
+435,16,True,Low Loyalty
+436,1,False,Highly Loyal
+437,3,True,Highly Loyal
+438,47,True,Low Loyalty
+439,1,False,Highly Loyal
+440,1,False,Highly Loyal
+441,17,True,Low Loyalty
+442,1,False,Highly Loyal
+443,1,False,Highly Loyal
+444,11,True,Low Loyalty
+445,66,True,Low Loyalty
+446,1,False,Highly Loyal
+447,7,True,Loyal
+448,1,False,Highly Loyal
+449,76,True,Low Loyalty
+450,3,True,Highly Loyal
+451,19,True,Low Loyalty
+452,2,True,Highly Loyal
+453,1,False,Highly Loyal
+454,1,False,Highly Loyal
+455,3,True,Highly Loyal
+456,5,True,Loyal
+457,27,True,Low Loyalty
+458,1,False,Highly Loyal
+459,1,False,Highly Loyal
+460,1,False,Highly Loyal
+461,53,True,Low Loyalty
+462,1,False,Highly Loyal
+463,1,False,Highly Loyal
+464,1,False,Highly Loyal
+465,52,True,Low Loyalty
+466,1,False,Highly Loyal
+467,2,True,Highly Loyal
+468,1,False,Highly Loyal
+469,4,True,Highly Loyal
+470,5,True,Loyal
+471,12,True,Low Loyalty
+472,2,True,Highly Loyal
+473,8,True,Loyal
+474,9,True,Loyal
+475,5,True,Loyal
+476,63,True,Low Loyalty
+477,2,True,Highly Loyal
+478,1,False,Highly Loyal
+479,81,True,Low Loyalty
+480,27,True,Low Loyalty
+481,2,True,Highly Loyal
+482,67,True,Low Loyalty
+483,11,True,Low Loyalty
+484,27,True,Low Loyalty
+485,62,True,Low Loyalty
+486,15,True,Low Loyalty
+487,20,True,Low Loyalty
+488,12,True,Low Loyalty
+489,1,False,Highly Loyal
+490,38,True,Low Loyalty
+491,14,True,Low Loyalty
+492,16,True,Low Loyalty
+493,1,False,Highly Loyal
+494,2,True,Highly Loyal
+495,4,True,Highly Loyal
+496,1,False,Highly Loyal
+497,17,True,Low Loyalty
+498,5,True,Loyal
+499,3,True,Highly Loyal
+500,213,True,Low Loyalty
+501,1,False,Highly Loyal
+502,1,False,Highly Loyal
+503,2,True,Highly Loyal
+504,8,True,Loyal
+505,11,True,Low Loyalty
+506,1,False,Highly Loyal
+507,2,True,Highly Loyal
+508,4,True,Highly Loyal
+509,13,True,Low Loyalty
+510,169,True,Low Loyalty
+511,1,False,Highly Loyal
+512,94,True,Low Loyalty
+513,1,False,Highly Loyal
+514,3,True,Highly Loyal
+515,6,True,Loyal
+516,3,True,Highly Loyal
+517,22,True,Low Loyalty
+518,1,False,Highly Loyal
+519,2,True,Highly Loyal
+520,7,True,Loyal
+521,3,True,Highly Loyal
+522,20,True,Low Loyalty
+523,1,False,Highly Loyal
+524,12,True,Low Loyalty
+525,7,True,Loyal
+526,42,True,Low Loyalty
+527,4,True,Highly Loyal
+528,42,True,Low Loyalty
+529,5,True,Loyal
+530,44,True,Low Loyalty
+531,2,True,Highly Loyal
+532,17,True,Low Loyalty
+533,4,True,Highly Loyal
+534,2,True,Highly Loyal
+535,1,False,Highly Loyal
+536,1,False,Highly Loyal
+537,2,True,Highly Loyal
+538,8,True,Loyal
+539,1,False,Highly Loyal
+540,29,True,Low Loyalty
+541,1,False,Highly Loyal
+542,9,True,Loyal
+543,30,True,Low Loyalty
+544,2,True,Highly Loyal
+545,3,True,Highly Loyal
+546,45,True,Low Loyalty
+547,2,True,Highly Loyal
+548,3,True,Highly Loyal
+549,8,True,Loyal
+550,1,False,Highly Loyal
+551,2,True,Highly Loyal
+552,67,True,Low Loyalty
+553,1,False,Highly Loyal
+554,1,False,Highly Loyal
+555,11,True,Low Loyalty
+556,1,False,Highly Loyal
+557,7,True,Loyal
+558,4,True,Highly Loyal
+559,3,True,Highly Loyal
+560,2,True,Highly Loyal
+561,16,True,Low Loyalty
+562,12,True,Low Loyalty
+563,1,False,Highly Loyal
+564,1,False,Highly Loyal
+565,159,True,Low Loyalty
+566,4,True,Highly Loyal
+567,1,False,Highly Loyal
+568,1,False,Highly Loyal
+569,2,True,Highly Loyal
+570,6,True,Loyal
+571,1,False,Highly Loyal
+572,2,True,Highly Loyal
+573,2,True,Highly Loyal
+574,1,False,Highly Loyal
+575,1,False,Highly Loyal
+576,1,False,Highly Loyal
+577,1,False,Highly Loyal
+578,1,False,Highly Loyal
+579,5,True,Loyal
+580,1,False,Highly Loyal
+581,4,True,Highly Loyal
+582,17,True,Low Loyalty
+583,1,False,Highly Loyal
+584,1,False,Highly Loyal
+585,5,True,Loyal
+586,1,False,Highly Loyal
+587,15,True,Low Loyalty
+588,2,True,Highly Loyal
+589,42,True,Low Loyalty
+590,1,False,Highly Loyal
+591,5,True,Loyal
+592,55,True,Low Loyalty
+593,42,True,Low Loyalty
+594,38,True,Low Loyalty
+595,8,True,Loyal
+596,4,True,Highly Loyal
+597,3,True,Highly Loyal
+598,1,False,Highly Loyal
+599,1,False,Highly Loyal
+600,24,True,Low Loyalty
+601,59,True,Low Loyalty
+602,1,False,Highly Loyal
+603,21,True,Low Loyalty
+604,1,False,Highly Loyal
+605,1,False,Highly Loyal
+606,2,True,Highly Loyal
+607,7,True,Loyal
+608,54,True,Low Loyalty
+609,3,True,Highly Loyal
+610,1,False,Highly Loyal
+611,3,True,Highly Loyal
+612,135,True,Low Loyalty
+613,5,True,Loyal
+614,1,False,Highly Loyal
+615,4,True,Highly Loyal
+616,2,True,Highly Loyal
+617,4,True,Highly Loyal
+618,5,True,Loyal
+619,54,True,Low Loyalty
+620,1,False,Highly Loyal
+621,8,True,Loyal
+622,12,True,Low Loyalty
+623,7,True,Loyal
+624,27,True,Low Loyalty
+625,1,False,Highly Loyal
+626,27,True,Low Loyalty
+627,3,True,Highly Loyal
+628,1,False,Highly Loyal
+629,8,True,Loyal
+630,1,False,Highly Loyal
+631,1,False,Highly Loyal
+632,59,True,Low Loyalty
+633,23,True,Low Loyalty
+634,2,True,Highly Loyal
+635,8,True,Loyal
+636,1,False,Highly Loyal
+637,57,True,Low Loyalty
+638,126,True,Low Loyalty
+639,2,True,Highly Loyal
+640,18,True,Low Loyalty
+641,10,True,Low Loyalty
+642,8,True,Loyal
+643,1,False,Highly Loyal
+644,37,True,Low Loyalty
+645,2,True,Highly Loyal
+646,1,False,Highly Loyal
+647,29,True,Low Loyalty
+648,8,True,Loyal
+649,29,True,Low Loyalty
+650,16,True,Low Loyalty
+651,47,True,Low Loyalty
+652,1,False,Highly Loyal
+653,1,False,Highly Loyal
+654,95,True,Low Loyalty
+655,2,True,Highly Loyal
+656,1,False,Highly Loyal
+657,17,True,Low Loyalty
+658,66,True,Low Loyalty
+659,1,False,Highly Loyal
+660,18,True,Low Loyalty
+661,7,True,Loyal
+662,1,False,Highly Loyal
+663,1,False,Highly Loyal
+664,1,False,Highly Loyal
+665,1,False,Highly Loyal
+666,2,True,Highly Loyal
+667,21,True,Low Loyalty
+668,1,False,Highly Loyal
+669,10,True,Low Loyalty
+670,2,True,Highly Loyal
+671,29,True,Low Loyalty
+672,3,True,Highly Loyal
+673,3,True,Highly Loyal
+674,2,True,Highly Loyal
+675,3,True,Highly Loyal
+676,30,True,Low Loyalty
+677,10,True,Low Loyalty
+678,4,True,Highly Loyal
+679,3,True,Highly Loyal
+680,3,True,Highly Loyal
+681,68,True,Low Loyalty
+682,23,True,Low Loyalty
+683,26,True,Low Loyalty
+684,29,True,Low Loyalty
+685,44,True,Low Loyalty
+686,1,False,Highly Loyal
+687,1,False,Highly Loyal
+688,4,True,Highly Loyal
+689,1,False,Highly Loyal
+690,2,True,Highly Loyal
+691,5,True,Loyal
+692,1,False,Highly Loyal
+693,11,True,Low Loyalty
+694,2,True,Highly Loyal
+695,9,True,Loyal
+696,4,True,Highly Loyal
+697,5,True,Loyal
+698,1,False,Highly Loyal
+699,1,False,Highly Loyal
+700,1,False,Highly Loyal
+701,1,False,Highly Loyal
+702,28,True,Low Loyalty
+703,1,False,Highly Loyal
+704,31,True,Low Loyalty
+705,31,True,Low Loyalty
+706,8,True,Loyal
+707,2,True,Highly Loyal
+708,37,True,Low Loyalty
+709,1,False,Highly Loyal
+710,18,True,Low Loyalty
+711,34,True,Low Loyalty
+712,22,True,Low Loyalty
+713,3,True,Highly Loyal
+714,1,False,Highly Loyal
+715,1,False,Highly Loyal
+716,23,True,Low Loyalty
+717,1,False,Highly Loyal
+718,4,True,Highly Loyal
+719,2,True,Highly Loyal
+720,1,False,Highly Loyal
+721,1,False,Highly Loyal
+722,1,False,Highly Loyal
+723,7,True,Loyal
+724,40,True,Low Loyalty
+725,8,True,Loyal
+726,28,True,Low Loyalty
+727,14,True,Low Loyalty
+728,16,True,Low Loyalty
+729,16,True,Low Loyalty
+730,2,True,Highly Loyal
+731,1,False,Highly Loyal
+732,18,True,Low Loyalty
+733,25,True,Low Loyalty
+734,4,True,Highly Loyal
+735,27,True,Low Loyalty
+736,1,False,Highly Loyal
+737,5,True,Loyal
+738,40,True,Low Loyalty
+739,2,True,Highly Loyal
+740,21,True,Low Loyalty
+741,1,False,Highly Loyal
+742,25,True,Low Loyalty
+743,1,False,Highly Loyal
+744,2,True,Highly Loyal
+745,2,True,Highly Loyal
+746,3,True,Highly Loyal
+747,2,True,Highly Loyal
+748,3,True,Highly Loyal
+749,56,True,Low Loyalty
+750,2,True,Highly Loyal
+751,2,True,Highly Loyal
+752,4,True,Highly Loyal
+753,28,True,Low Loyalty
+754,1,False,Highly Loyal
+755,6,True,Loyal
+756,1,False,Highly Loyal
+757,13,True,Low Loyalty
+758,11,True,Low Loyalty
+759,8,True,Loyal
+760,16,True,Low Loyalty
+761,3,True,Highly Loyal
+762,3,True,Highly Loyal
+763,2,True,Highly Loyal
+764,1,False,Highly Loyal
+765,7,True,Loyal
+766,11,True,Low Loyalty
+767,37,True,Low Loyalty
+768,4,True,Highly Loyal
+769,3,True,Highly Loyal
+770,61,True,Low Loyalty
+771,10,True,Low Loyalty
+772,2,True,Highly Loyal
+773,1,False,Highly Loyal
+774,44,True,Low Loyalty
+775,1,False,Highly Loyal
+776,3,True,Highly Loyal
+777,1,False,Highly Loyal
+778,3,True,Highly Loyal
+779,19,True,Low Loyalty
+780,6,True,Loyal
+781,4,True,Highly Loyal
+782,7,True,Loyal
+783,15,True,Low Loyalty
+784,2,True,Highly Loyal
+785,9,True,Loyal
+786,13,True,Low Loyalty
+787,6,True,Loyal
+788,16,True,Low Loyalty
+789,1,False,Highly Loyal
+790,1,False,Highly Loyal
+791,6,True,Loyal
+792,2,True,Highly Loyal
+793,1,False,Highly Loyal
+794,3,True,Highly Loyal
+795,33,True,Low Loyalty
+796,2,True,Highly Loyal
+797,1,False,Highly Loyal
+798,12,True,Low Loyalty
+799,28,True,Low Loyalty
+800,1,False,Highly Loyal
+801,3,True,Highly Loyal
+802,29,True,Low Loyalty
+803,39,True,Low Loyalty
+804,1,False,Highly Loyal
+805,12,True,Low Loyalty
+806,1,False,Highly Loyal
+807,9,True,Loyal
+808,17,True,Low Loyalty
+809,2,True,Highly Loyal
+810,59,True,Low Loyalty
+811,18,True,Low Loyalty
+812,2,True,Highly Loyal
+813,2,True,Highly Loyal
+814,28,True,Low Loyalty
+815,1,False,Highly Loyal
+816,39,True,Low Loyalty
+817,7,True,Loyal
+818,14,True,Low Loyalty
+819,1,False,Highly Loyal
+820,9,True,Loyal
+821,1,False,Highly Loyal
+822,2,True,Highly Loyal
+823,22,True,Low Loyalty
+824,2,True,Highly Loyal
+825,1,False,Highly Loyal
+826,10,True,Low Loyalty
+827,1,False,Highly Loyal
+828,33,True,Low Loyalty
+829,16,True,Low Loyalty
+830,16,True,Low Loyalty
+831,1,False,Highly Loyal
+832,1,False,Highly Loyal
+833,17,True,Low Loyalty
+834,1,False,Highly Loyal
+835,46,True,Low Loyalty
+836,1,False,Highly Loyal
+837,1,False,Highly Loyal
+838,23,True,Low Loyalty
+839,6,True,Loyal
+840,5,True,Loyal
+841,1,False,Highly Loyal
+842,3,True,Highly Loyal
+843,3,True,Highly Loyal
+844,14,True,Low Loyalty
+845,1,False,Highly Loyal
+846,20,True,Low Loyalty
+847,7,True,Loyal
+848,3,True,Highly Loyal
+849,3,True,Highly Loyal
+850,1,False,Highly Loyal
+851,8,True,Loyal
+852,1,False,Highly Loyal
+853,1,False,Highly Loyal
+854,2,True,Highly Loyal
+855,1,False,Highly Loyal
+856,12,True,Low Loyalty
+857,33,True,Low Loyalty
+858,19,True,Low Loyalty
+859,27,True,Low Loyalty
+860,20,True,Low Loyalty
+861,6,True,Loyal
+862,1,False,Highly Loyal
+863,1,False,Highly Loyal
+864,25,True,Low Loyalty
+865,15,True,Low Loyalty
+866,2,True,Highly Loyal
+867,9,True,Loyal
+868,3,True,Highly Loyal
+869,1,False,Highly Loyal
+870,67,True,Low Loyalty
+871,7,True,Loyal
+872,1,False,Highly Loyal
+873,3,True,Highly Loyal
+874,2,True,Highly Loyal
+875,9,True,Loyal
+876,3,True,Highly Loyal
+877,2,True,Highly Loyal
+878,37,True,Low Loyalty
+879,19,True,Low Loyalty
+880,3,True,Highly Loyal
+881,1,False,Highly Loyal
+882,1,False,Highly Loyal
+883,30,True,Low Loyalty
+884,2,True,Highly Loyal
+885,22,True,Low Loyalty
+886,30,True,Low Loyalty
+887,1,False,Highly Loyal
+888,2,True,Highly Loyal
+889,1,False,Highly Loyal
+890,27,True,Low Loyalty
+891,5,True,Loyal
+892,2,True,Highly Loyal
+893,1,False,Highly Loyal
+894,2,True,Highly Loyal
+895,4,True,Highly Loyal
+896,28,True,Low Loyalty
+897,1,False,Highly Loyal
+898,33,True,Low Loyalty
+899,8,True,Loyal
+900,12,True,Low Loyalty
+901,1,False,Highly Loyal
+902,1,False,Highly Loyal
+903,27,True,Low Loyalty
+904,1,False,Highly Loyal
+905,25,True,Low Loyalty
+906,18,True,Low Loyalty
+907,1,False,Highly Loyal
+908,5,True,Loyal
+909,2,True,Highly Loyal
+910,1,False,Highly Loyal
+911,13,True,Low Loyalty
+912,7,True,Loyal
+913,29,True,Low Loyalty
+914,6,True,Loyal
+915,2,True,Highly Loyal
+916,1,False,Highly Loyal
+917,12,True,Low Loyalty
+918,1,False,Highly Loyal
+919,1,False,Highly Loyal
+920,31,True,Low Loyalty
+921,2,True,Highly Loyal
+922,6,True,Loyal
+923,8,True,Loyal
+924,11,True,Low Loyalty
+925,22,True,Low Loyalty
+926,17,True,Low Loyalty
+927,1,False,Highly Loyal
+928,1,False,Highly Loyal
+929,22,True,Low Loyalty
+930,2,True,Highly Loyal
+931,6,True,Loyal
+932,1,False,Highly Loyal
+933,14,True,Low Loyalty
+934,14,True,Low Loyalty
+935,28,True,Low Loyalty
+936,1,False,Highly Loyal
+937,1,False,Highly Loyal
+938,8,True,Loyal
+939,1,False,Highly Loyal
+940,3,True,Highly Loyal
+941,1,False,Highly Loyal
+942,1,False,Highly Loyal
+943,2,True,Highly Loyal
+944,106,True,Low Loyalty
+945,3,True,Highly Loyal
+946,1,False,Highly Loyal
+947,3,True,Highly Loyal
+948,15,True,Low Loyalty
+949,1,False,Highly Loyal
+950,13,True,Low Loyalty
+951,1,False,Highly Loyal
+952,11,True,Low Loyalty
+953,12,True,Low Loyalty
+954,18,True,Low Loyalty
+955,1,False,Highly Loyal
+956,2,True,Highly Loyal
+957,1,False,Highly Loyal
+958,12,True,Low Loyalty
+959,7,True,Loyal
+960,21,True,Low Loyalty
+961,1,False,Highly Loyal
+962,26,True,Low Loyalty
+963,18,True,Low Loyalty
+964,1,False,Highly Loyal
+965,4,True,Highly Loyal
+966,2,True,Highly Loyal
+967,6,True,Loyal
+968,5,True,Loyal
+969,3,True,Highly Loyal
+970,2,True,Highly Loyal
+971,9,True,Loyal
+972,2,True,Highly Loyal
+973,14,True,Low Loyalty
+974,1,False,Highly Loyal
+975,1,False,Highly Loyal
+976,4,True,Highly Loyal
+977,10,True,Low Loyalty
+978,11,True,Low Loyalty
+979,1,False,Highly Loyal
+980,3,True,Highly Loyal
+981,10,True,Low Loyalty
+982,3,True,Highly Loyal
+983,1,False,Highly Loyal
+984,2,True,Highly Loyal
+985,1,False,Highly Loyal
+986,3,True,Highly Loyal
+987,48,True,Low Loyalty
+988,1,False,Highly Loyal
+989,1,False,Highly Loyal
+990,2,True,Highly Loyal
+991,5,True,Loyal
+992,12,True,Low Loyalty
+993,1,False,Highly Loyal
+994,2,True,Highly Loyal
+995,1,False,Highly Loyal
+996,9,True,Loyal
+997,8,True,Loyal
+998,1,False,Highly Loyal
+999,16,True,Low Loyalty
+1000,4,True,Highly Loyal
+1001,1,False,Highly Loyal
+1002,1,False,Highly Loyal
+1003,4,True,Highly Loyal
+1004,1,False,Highly Loyal
+1005,1,False,Highly Loyal
+1006,2,True,Highly Loyal
+1007,3,True,Highly Loyal
