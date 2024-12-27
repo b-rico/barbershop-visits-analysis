@@ -1,43 +1,64 @@
+"""
+File Name: loyalty_segmentation.py
+Author: Bert Rico
+Created: 2024-12-27
+Description:
+    This function segments clients into loyalty categories based on their visit frequency and recency.
+Args:
+    - data (DataFrame): DataFrame containing client visit data with 'id' and 'date' columns.
+    - output_dir (str): Directory to save the output CSV.
+Output:
+    - A CSV file named 'loyalty_segmentation.csv' saved to the specified directory.
+"""
+
 import pandas as pd
 import numpy as np
 
 def loyalty_segmentation(data, output_dir):
     """
-    This function segments clients into loyalty categories based on their visit frequency 
-    and recency. The segmentation helps in identifying highly loyal, potentially loyal, 
-    and at-risk clients.
+    Segments clients into loyalty categories based on their visit frequency and recency.
 
     Args:
-    - data (DataFrame): The DataFrame containing client visit data with 'id' and 'date' columns.
-    - output_dir (str): The directory where the output CSV file will be saved.
+    - data (DataFrame): DataFrame containing client visit data with 'id' and 'date' columns.
+    - output_dir (str): Directory to save the output CSV.
 
     Output:
-    - A CSV file named 'loyalty_segmentation.csv' saved to the specified output directory.
+    - A CSV file named 'loyalty_segmentation.csv' saved to the specified directory.
     """
-    # Ensure the date column is in datetime format
     data['date'] = pd.to_datetime(data['date'])
 
-    # Calculate total visits and the date of the last visit for each client
     visit_counts = data.groupby('id')['date'].count().reset_index(name='total_visits')
-    latest_visits = data.groupby('id')['date'].max().reset_index(name='last_visit_date')
-    
-    # Calculate the number of days since the last visit
-    latest_visits['days_since_last_visit'] = (pd.to_datetime('today') - latest_visits['last_visit_date']).dt.days
-    
-    # Define loyalty segments based on visit counts and recency
+    last_visits = data.groupby('id')['date'].max().reset_index(name='last_visit_date')
+
+    last_visits['days_since_last_visit'] = (pd.Timestamp.today() - last_visits['last_visit_date']).dt.days
+
+    segmentation = pd.merge(visit_counts, last_visits, on='id')
+
     conditions = [
-        (visit_counts['total_visits'] >= 10) & (latest_visits['days_since_last_visit'] <= 90),
-        (visit_counts['total_visits'] >= 5) & (visit_counts['total_visits'] < 10) & (latest_visits['days_since_last_visit'] <= 180),
-        (visit_counts['total_visits'] < 5) | (latest_visits['days_since_last_visit'] > 180)
+        (segmentation['total_visits'] >= 12) & (segmentation['days_since_last_visit'] <= 30),
+        (segmentation['total_visits'] >= 12) & (segmentation['days_since_last_visit'] > 30),
+        (segmentation['total_visits'] >= 6) & (segmentation['total_visits'] < 12) & (segmentation['days_since_last_visit'] <= 90),
+        (segmentation['total_visits'] >= 6) & (segmentation['total_visits'] < 12) & (segmentation['days_since_last_visit'] > 90),
+        (segmentation['total_visits'] >= 2) & (segmentation['total_visits'] < 6) & (segmentation['days_since_last_visit'] <= 180),
+        (segmentation['total_visits'] >= 2) & (segmentation['total_visits'] < 6) & (segmentation['days_since_last_visit'] > 180),
+        (segmentation['total_visits'] < 2)
     ]
-    choices = ['Highly Loyal', 'Potentially Loyal', 'At Risk']
-    
-    # Create a loyalty segment column
-    visit_counts['loyalty_segment'] = np.select(conditions, choices, default='New')
-    
-    # Merge the visit counts and latest visits to include all relevant data
-    loyalty_data = pd.merge(visit_counts, latest_visits, on='id')
-    
-    # Save the results
-    loyalty_data.to_csv(f"{output_dir}/loyalty_segmentation.csv", index=False)
+    choices = [
+        'Low Risk',  # Frequent visits, recent
+        'Medium Risk',  # Frequent visits, not recent
+        'Moderate Risk',  # Moderate visits, recent
+        'Elevated Risk',  # Moderate visits, not recent
+        'High Risk',  # Low visits, recent
+        'Highest Risk',  # Low visits, not recent
+        'New'  # Very few visits
+    ]
+
+    segmentation['loyalty_segment'] = np.select(conditions, choices, default='Unknown')
+
+    unknowns = segmentation[segmentation['loyalty_segment'] == 'Unknown']
+    if not unknowns.empty:
+        print("Warning: Some records were assigned 'Unknown'. Investigate these cases:")
+        print(unknowns)
+
+    segmentation.to_csv(f"{output_dir}/loyalty_segmentation.csv", index=False)
     print("Loyalty Segmentation complete: loyalty_segmentation.csv generated.")
