@@ -38,7 +38,7 @@ def client_retention_loyalty_metrics(data, output_dir):
         (retention['visit_count'] >= 6) & (retention['visit_count'] < 12) & (retention['days_since_last_visit'] > 90),
         (retention['visit_count'] >= 2) & (retention['visit_count'] < 6) & (retention['days_since_last_visit'] <= 180),
         (retention['visit_count'] >= 2) & (retention['visit_count'] < 6) & (retention['days_since_last_visit'] > 180),
-        (retention['visit_count'] < 2) & (retention['days_since_last_visit'] > 180)
+        (retention['visit_count'] < 2) 
     ]
     choices = [
         'Extremely Loyal',  # Frequent visits, recent

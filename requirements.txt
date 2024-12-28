@@ -17,6 +17,7 @@ osqp==0.6.7.post3
 packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
+plotly==5.24.1
 pluggy==1.5.0
 prophet==1.1.6
 pyparsing==3.2.0
@@ -29,6 +30,7 @@ scikit-survival==0.23.1
 scipy==1.14.1
 six==1.17.0
 stanio==0.5.1
+tenacity==9.0.0
 threadpoolctl==3.5.0
 tqdm==4.67.1
 typing_extensions==4.12.2
