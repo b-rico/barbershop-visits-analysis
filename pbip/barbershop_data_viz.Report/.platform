@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "barbershop_data_viz"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2ed0d5b4-a389-47f0-aa13-270eba29e7cf"
+  }
+}
